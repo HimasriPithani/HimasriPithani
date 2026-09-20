@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Himasri Pithani
 
-🚀 **AI & Data Science Student** | 🤖 **Data Scientist & Generative AI Engineer** | 📊 **Full-Stack ML Developer**  
+🚀 **AI & Data Science Student** | 🤖 **Data Scientist & Generative AI Engineer** | 📊 **ML & Data Analyst**  
 🌐 *Building end-to-end data analytics platforms, RAG systems, and full-stack multilingual NLP tools.*
 
 ---
@@ -19,7 +19,6 @@
 
 ### **Languages & Core**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### **AI, ML & NLP**
@@ -35,23 +34,37 @@
 ### **Web Frameworks & Databases**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-## 🚀 Projects I'm Proud Of
+## 🏆 Projects I'm Proud Of
 
-### 🤖 **RAG-Based Video Comparison Chatbot**
+### 🎥 **RAG-Based Video Comparison Chatbot**
 * Built a vector-search driven **Retrieval-Augmented Generation (RAG)** chatbot to process transcripts and compare YouTube videos vs. Instagram Reels.
 * Integrated vector similarity search using Qdrant with local LLM response generation via Ollama (Mistral).
 * **Tech Stack:** Python, Qdrant, Ollama, Mistral.
 
-### 📊 **Retail Analytics Platform**
-* Developed an end-to-end dashboard analyzing 9,900+ transaction records with 25+ REST API endpoints.
-* Engineered an RFM (Recency, Frequency, Monetary) customer segmentation model and exportable Power BI star-schema reporting.
+### 📊 **Retail Data Analysis**
+* Performed end-to-end analysis of retail sales data to identify revenue trends, product performance, sales patterns, and key business insights.
+* Cleaned, transformed, and analyzed sales data and developed interactive visualizations and dashboards for business decision-making.
+* **Tech Stack:** Python, Pandas, Power BI, Excel, Data Analysis.
+
+### 📈 **Retail Analytics Platform**
+* Developed an end-to-end dashboard analyzing **9,900+ transaction records** with 25+ REST API endpoints.
+* Engineered KPIs, customer segmentation, and exportable Power BI star-schema reporting.
 * **Tech Stack:** Python, FastAPI, React, PostgreSQL, Power BI.
+
+### 📉 **Customer Churn Analysis**
+* Developed an interactive Power BI dashboard to analyze customer churn patterns, retention trends, tenure groups, and major churn reasons.
+* Created KPIs, DAX measures, interactive slicers, and customer segmentation to identify factors associated with customer attrition.
+* **Tech Stack:** Power BI, DAX, Excel, Data Analysis, Data Visualization.
+
+### 🌐 **Multilingual RAG Knowledge Assistant**
+* Built a multilingual **Retrieval-Augmented Generation (RAG)** assistant that allows users to upload documents and ask questions in natural language.
+* Implemented document processing, multilingual embeddings, vector search, retrieval, and LLM-based context-aware response generation.
+* **Tech Stack:** Python, FastAPI, ChromaDB, Sentence Transformers, Ollama, LLMs, MongoDB.
 
 ### 📝 **MWE & Named Entity Annotation Platform**
 * Designed a role-based (Admin, User, Reviewer) multilingual NLP annotation web application with automated data export workflows.
